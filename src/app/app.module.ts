@@ -4,12 +4,14 @@ import { TopNavbarComponent } from 'src/app/navigation/topnavbar.component';
 
 import { AppComponent } from './app.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TopNavbarComponent,
-    CarouselComponent
+    CarouselComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
