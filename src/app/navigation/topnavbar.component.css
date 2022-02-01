@@ -26,8 +26,18 @@ div {
     align-content: center;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     color: black;
     text-align: center;
 }
 
+a {
+    background-color: rgb(15,88,148);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+p {
+    background-color: white;
+}
